@@ -6,7 +6,12 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 import io
 
-<a href="https://kydrfedz3fbzz3menrwhyy.streamlit.app">Apri l'app Streamlit</a>
+
+
+st.markdown(
+    '<a href="https://kydrfedz3fbzz3menrwhyy.streamlit.app" target="_blank">Apri l\'app Streamlit</a>',
+    unsafe_allow_html=True
+)
 
 
 # Function definitions (same as before)
