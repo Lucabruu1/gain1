@@ -6,6 +6,12 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 import io
 
+<a href="https://kydrfedz3fbzz3menrwhyy.streamlit.app/" target="_blank">
+  <button>Apri l'app Streamlit</button>
+</a>
+
+
+
 # Function definitions (same as before)
 def apply_gain(audio_data, gain):
     """Applies gain to the audio data."""
