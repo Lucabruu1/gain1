@@ -6,8 +6,7 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 import io
 
-<a href="https://kydrfedz3fbzz3menrwhyy.streamlit.app" a/>
-
+<a href="https://kydrfedz3fbzz3menrwhyy.streamlit.app">Apri l'app Streamlit</a>
 
 
 # Function definitions (same as before)
